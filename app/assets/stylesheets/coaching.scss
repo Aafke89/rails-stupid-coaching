@@ -1,0 +1,24 @@
+// Place all the styles related to the coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.answer-block {
+  padding: 30px;
+  width: 300px;
+  background-color: rgba(128, 128, 128, 0.1);
+  margin: 40px auto;
+  // margin-top: 40px;
+  // margin-bottom: 40px;
+}
+
+.text-center {
+  text-align: center;
+}
